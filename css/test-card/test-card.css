@@ -1,0 +1,12 @@
+@import "__picture/text-card__picture.css";
+@import "__text/text-card__text.css";
+
+.test-card {
+    background-color: #f0f0f0;
+    height: 300px;
+    margin: 20px;
+    max-width: 250px;
+    box-shadow: 0 0 10px rgba(1, 1, 1, 0.5);
+    padding-left: 0;
+    padding-right: 0;
+}
